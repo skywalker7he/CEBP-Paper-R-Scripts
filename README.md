@@ -15,3 +15,6 @@ R version: R version 4.5.3 (2026-03-12)
 | DiagrammeRsvg | 0.1 |
 | rsvg | 2.7.0 |
 | mice | 3.19.0 |
+
+## R Scripts Download Instruction
+Download all files by selecting **Code → Download ZIP**
