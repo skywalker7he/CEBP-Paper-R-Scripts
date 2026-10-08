@@ -1,6 +1,7 @@
 # CEBP-Paper-R-Scripts
 Reproduce the single-center retrospective study results in the peer-reviewed journal paper entitled "Impact of opioids on chemotherapy-induced gastrointestinal toxicity: Complementary retrospective and real-world cohorts"
 
+## Software and Package Versions
 R version: R version 4.5.3 (2026-03-12) 
 
 | Package | Version |
